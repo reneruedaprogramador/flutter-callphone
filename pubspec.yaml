@@ -1,4 +1,4 @@
-name: app_base_callphone
+name: app_base_callphone  
 description: "A new Flutter project."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
@@ -10,13 +10,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  url_launcher: ^6.3.0
+  url_launcher: ^6.3.0    # SOLO AGREGA ESTA LINEA EN TU PROYECTO ORIGINAL.
   cupertino_icons: ^1.0.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^3.0.0   
 
 flutter:
 
